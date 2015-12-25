@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+
+      <title>课程 - 优秀讲师</title>
+      <meta name="keywords" content="IT课程,公开课,在线教育,IT职业培训,云计算,大数据,互联网营销培训,网络课程,视频教程,编程开发,交互设计,互联网思维,幕课论坛,MOOC,视频课程,职场进修,慕课论坛,在线学习,学习平台,创业,物联网"/>
+      <meta name="description" content="开课吧是关于云计算、大数据、互联网营销、交互设计、编程语言、移动设备等泛IT学科的在线课程，在线教育，职业培训平台。"/>
+
+
+
+    <link data-turbolinks-track="true" href="__PUBLIC__/css/application-259d88b7df3d30d7eec66f46114169d9.css" media="all" rel="stylesheet" />
+    <link data-turbolinks-track="true" href="__PUBLIC__/css/sign_in_modal-3160308d45c1acdf19162e7886744068.css" media="all" rel="stylesheet" />
+    <link data-turbolinks-track="true" href="__PUBLIC__/css/gaoxiaobang-da3a2db2fecddd160bc3e3c4a3a3bc38.css" media="all" rel="stylesheet" />
+    <script data-turbolinks-track="true" src="__PUBLIC__/js/application-fb8562c33e2e6c7d207653c10215fc91.js"></script>
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="HfyB28ni5Qj/hP5e8BrOFEnWbp74KJ0mHJ2R98WyF40=" name="csrf-token" />
+	<link rel="apple-touch-icon" sizes="57x57" href="__PUBLIC__/images/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="__PUBLIC__/images/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="__PUBLIC__/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="__PUBLIC__/images/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="__PUBLIC__/images/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="__PUBLIC__/images/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="__PUBLIC__/images/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="__PUBLIC__/images/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="__PUBLIC__/images/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="__PUBLIC__/images/favicon-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="__PUBLIC__/images/favicon-160x160.png" sizes="160x160">
+	<link rel="icon" type="image/png" href="__PUBLIC__/images/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="__PUBLIC__/images/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="__PUBLIC__/images/favicon-32x32.png" sizes="32x32">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <!--[if lt IE 9]>
+    <script src="__PUBLIC__/js/html5shiv.min-f7427b1968f14d148d6c973339ec8bbb.js"></script>
+<script src="__PUBLIC__/js/respond.min-497dcd05a34f78a0295d8ba4cc5008df.js"></script>
+    <![endif]-->
+    <!--[if lte IE 9]>
+    <script src="__PUBLIC__/js/html5boilerplate-20c3bd30c07e9e58ea1042f1da27d6b7.js"></script>
+<script src="__PUBLIC__/js/jquery.placeholder-f99209ea3cff0a13a5ec10e1e69b243f.js"></script>
+    <![endif]-->
+    <script>
+      var webApiUrl = "http://w.api.kaikeba.com";
+      var mmLearnUrl = "http://class.kaikeba.com";
+    </script>
+  </head>
+  <body>
+  <!--<p class="notice"></p>-->
+  <!--<p class="alert"></p>-->
+
+    <body>
+<header class="white-header" id="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="pull-left">
+          <div class="logo">
+            <a href="index.html"><img alt="Logo color" data-at2x="/assets/__PUBLIC__/images/logo-color@2x.png" src="__PUBLIC__/images/logo-color.png" /></a>
+            
+          </div>
+          <div class="dropdown">
+            <a data-toggle="dropdown" href="course_list.html" class="btn btn-default">
+              <span class="glyphicon glyphicon-align-justify"></span>
+              课程
+            </a>
+            <div class="dropdown-menu course-catagory">
+  <div class="catagory-links">
+    <h6><span>发现课程</span></h6>
+    <hr>
+    <div class="row main-catagory">
+      <div class="col-xs-4">
+        <a href="/?discover=true">
+          <span class="icon icon-selected-star"></span>
+          &nbsp;&nbsp;发现课程
+        </a>
+      </div>
+      <div class="col-xs-4">
+        <a href="/courses?q%5Bs%5D=created_at+desc">
+            <span class="icon icon-new"></span>
+            &nbsp;&nbsp;最新课程
+</a>      </div>
+      <div class="col-xs-4">
+        <!--<a href="/courses?q%5Bcertificate_type_eq%5D=enterprise">-->
+            <!--<span class="icon icon-certificate-x"></span>-->
+            <!--&nbsp;&nbsp;企业证书-->
+        <!--</a>-->
+      </div>
+    </div>
+    <h6><span>学科类别</span></h6>
+    <hr>
+    <div class="row sub-catagory">
+          <div class="col-xs-3">
+            <a href="/courses?q%5Bcategory_id_eq%5D=26" title="移动开发">移动开发</a>
+          </div>
+          <div class="col-xs-3">
+            <a href="/courses?q%5Bcategory_id_eq%5D=1" title="云计算">云计算</a>
+          </div>
+          <div class="col-xs-3">
+            <a href="/courses?q%5Bcategory_id_eq%5D=2" title="互联网营销">互联网营销</a>
+          </div>
+          <div class="col-xs-3">
+            <a href="/courses?q%5Bcategory_id_eq%5D=3" title="交互设计">交互设计</a>
+          </div>
+          <div class="col-xs-3">
+            <a href="/courses?q%5Bcategory_id_eq%5D=7" title="编程开发">编程开发</a>
+          </div>
+          <div class="col-xs-3">
+            <a href="/courses?q%5Bcategory_id_eq%5D=6" title="大数据">大数据</a>
+          </div>
+          <div class="col-xs-3">
+            <a href="/courses?q%5Bcategory_id_eq%5D=8" title="创新创业">创新创业</a>
+          </div>
+          <div class="col-xs-3">
+            <a href="/courses?q%5Bcategory_id_eq%5D=12" title="办公软件">办公软件</a>
+          </div>
+          <div class="col-xs-3">
+            <a href="/courses?q%5Bcategory_id_eq%5D=32" title="项目管理">项目管理</a>
+          </div>
+      <div class="col-xs-3">
+        <a href="course_list.html">全部课程...</a>
+      </div>
+    </div>
+  </div>
+</div>
+          </div>
+          <div class="dropdown">
+            <a href="http://u.kaikeba.com" class="btn btn btn-default">
+              高校邦
+            </a>
+          </div>
+          <div class="dropdown">
+            <a href="http://w.kaikeba.com" target="_blank" class="btn btn btn-white-border">
+              微专业
+            </a>
+          </div>
+          <div class="dropdown">
+            <a href="/topics/startupcollege" target="_blank" class="btn btn btn-white-border">
+              创业微学院
+            </a>
+          </div>
+          <div class="dropdown">
+            <a href="http://bbs.kaikeba.com" target="_blank" class="btn btn btn-white-border">
+              论坛
+            </a>
+          </div>
+        </div>
+        <div class="pull-right header-link">
+          <style type="text/css" media="screen">
+.dowe-menu-course{ width:336px; background:#fff;border-radius: 4px;box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);}
+.dowe-menu-course-title{ height:40px; padding-left:20px; color:#879099; font-size:14px; line-height:40px;}
+.dowe-menu-course-list a{ display:block; height:65px; padding:0 20px; text-decoration:none;}
+.dowe-menu-course-list a:hover{ background:#F4F4F4;}
+.listtitle{color: #606366;font-size: 14px;}
+.listtime{ color: #b6bec6;font-size: 12px;}
+.dowe-menu-course-list a ul{padding-top: 10px; border-top: 1px #EDEFF0 solid;}
+.dowe-menu-course-list a ul li.classtitle{color: #b2b6b9;line-height: 30px;font-size: 12px; height: 30px;overflow: hidden;}
+</style>
+    <span><a data-remote="true" href="login.html">登录</a></span>
+    <!---->
+        <!--<span></span>-->
+    <!---->
+        <span><a href="reg.html">注册</a></span>
+    <!---->
+
+<script>
+  window.domain = 'kaikeba.com'
+  var arrStr = document.cookie.split("; ");
+  var access_token = null;
+  for (var i=0; i < arrStr.length; i++) {
+    if (arrStr[i].split("=")[0] === 'access_token') {
+        access_token = unescape(arrStr[i].split("=")[1]);
+    };
+  };
+  var kaikeba_lms_website = "http://class.kaikeba.com";
+  if (access_token) {
+      $.ajax({
+          url : "http://w.api.kaikeba.com"+'/learn_log/'+access_token+'?size=5&school_code='+(window.location.host.split(".").length==3?window.location.host.split(".")[0]:''),
+          type : 'GET',
+          contentType : 'application/json',
+          success : function(back){
+              if (back.data.length) {
+                  var htmls = '<div class="dowe-menu-course-title">最近学习</div>';
+                  for (var i=0; i < back.data.length; i++) {
+                      var hlink =  back.data[i]["school_code"] ? 'http://class.'+back.data[i]["school_code"]+'.kaikeba.com' : kaikeba_lms_website;
+                    htmls += '<div class="dowe-menu-course-list">'
+                        +'<a href="'+hlink+back.data[i]["redirect_uri"]+'">'
+                            +'<ul class="list-unstyled">'
+                              +'<li>'
+                                  +'<dl class="dl-horizontal" style="margin-bottom: 4px;">'
+                                      +'<dt class="listtitle" style="text-align: left;">'+back.data[i]["course_name"]+'</dt>'
+                                      +'<dd class="text-right listtime">'+back.data[i]["last_time_str"]+'学习</dd>'
+                                    +'</dl>'
+                              +'</li>'
+                              +'<li class="classtitle">'+back.data[i]["context_title"]+'</li>'
+                            +'</ul>'
+                        +'</a>'
+                    +'</div>';
+                  };
+                  $('#study_progression').html(htmls);
+              } else {
+                  var htmls = '<div class="dowe-menu-course-title">最近学习</div>';
+                  htmls += '<div class="dowe-menu-course-list" style="color:#333;text-align:center;">还没开始学习，来一课吧！</div>';
+                  $('#study_progression').html(htmls);
+              }
+          }
+      });
+  };
+  $('#my_course').hover(function(){
+        $('#study_progression').stop(true,true).show('fast');
+    },function(){
+        $('#study_progression').stop(true,true).hide('fast');
+    });
+</script>
+
+
+          <span>|</span>
+          <span><a href="#" class="open-header-search"><span class="glyphicon glyphicon-search"></span></a></span>
+        </div>
+        <div class="pull-right header-search">
+          <form accept-charset="UTF-8" action="course_list.html" autocomplete="off" class="header-search-form form-inline" method="get" role="form"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+              <div class="form-group">
+                <label for="header-search" class="sr-only">搜索</label>
+                <!--<input type="search" class="form-control" id="header-search" name="q[name_or_instructors_name_or_institution_name_cont]" placeholder="输入关键字">-->
+                <!--TODO instructors_name affect the amount of searched courses  -->
+                <input type="search" class="form-control" id="header-search" name="q[name_or_institution_name_cont]" placeholder="输入关键字">
+                <a href="#" class="close-header-search">&times;</a>
+              </div>
+</form>        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="header-occupation"></div>
+<div class="teacher-detail-pic-bg">
+  <!-- <div class="mask" ></div> -->
+  <div class="teacher-detail-breadcrumb-bg">
+    <div class="container">
+      <ul class="breadcrumb">
+        <li><a href="index.html">开课吧</a></li>
+        <li><a href="{:U('Index/teachers')}">名师</a></li>
+        <li><a href="/instructors/28">刘冬</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="main clearfix">
+    <div class="pull-left">
+      <img alt="06   " class="pic" height="141" src="__PUBLIC__/images/06___.png" width="141" />
+    </div>
+    <div class="info pull-left">
+      <div class="name">
+        <strong>刘冬</strong>
+        <span></span>
+      </div>
+      <div class="chen">
+        慧科教育集团职业规划师
+      </div>
+      <div class="mess">
+        美女HR，慧科教育集团职业规划师，是结合专业知识和相关资源，给予客户有关职业适应、发展等方面的咨询、辅导、判断和解决办法的专业人才。在多门公开课中，完美诠释了利用Office软件来完成工作中各种数据的处理和工作汇报等相关内容。
+      </div>
+      <div class="tag">
+                <a href="course_list.html?q%5Bname_or_institution_name_cont%5D=%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92">
+                    <em>职业规划</em>
+</a>                <a href="course_list.html?q%5Bname_or_institution_name_cont%5D=%E6%95%B0%E6%8D%AE%E7%9A%84%E5%A4%84%E7%90%86">
+                    <em>数据的处理</em>
+</a>                <a href="course_list.html?q%5Bname_or_institution_name_cont%5D=%E5%B7%A5%E4%BD%9C%E6%B1%87%E6%8A%A5">
+                    <em>工作汇报</em>
+</a>      </div>
+    </div>
+  </div>
+  <!-- <a class="lang" href="#" target="_blank"></a> -->
+</div>
+<div class="teacher-detail-content-bg">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="teacher-detail-title">刘冬的课程</div>
+        <ul class="list-unstyled course-row">
+               <li>
+                  <style>
+    .course-card .course-intro > p > em {
+        color: transparent;
+        -webkit-transition: color .4s ease-in-out .2s;
+        -moz-transition: color .4s ease-in-out .2s;
+        -ms-transition: color .4s ease-in-out .2s;
+        -o-transition: color .4s ease-in-out .2s;
+        transition: color .4s ease-in-out .2s;
+    }
+
+    .course-card:hover .course-intro > p > em {
+        color: red;
+    }
+    .course-card h4 em {
+        color: red;
+    }
+</style>
+<a class="course-card thumbnail" href="/courses/36">
+  <img alt="Normal  visio      2 " class="img-responsive" src="__PUBLIC__/images/normal__Visio___-__2_.png" style="min-height: 140px" />
+  <div class="caption open">
+    <div class="float-blk">
+          <h4>Visio归来</h4>
+
+      <div class="price">
+            <span class="priceless">免费</span>
+      </div>
+
+
+
+      <div class="course-info">
+        <p><span class="label-course label-open-course">公开课</span></p>
+            <p>
+                  <span class="icon icon-film"></span>&nbsp;更新至第4节视频
+            </p>
+      </div>
+
+      <div class="course-intro">
+            <p>你是否还在对纯文字的工作业务流程而抓狂呢？别烦啦，这些情况Visio都可以轻松搞定。</p>
+      </div>
+      <div class="course-review">
+        <!--<span class="score">9.0分</span>-->
+        <span class="star">
+  <span class="star-fill">
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-half-fill active"></span>
+  </span>
+  <span class="score">(9分)</span>
+</span>
+
+
+          <span class="count pull-right" data-toggle="tooltip" title="观看次数">
+            <span class="icon icon-play"></span>
+            18.7万
+          </span>
+      </div>
+    </div>
+  </div>
+  <div class="course-favorite open_course_36_collection">
+        <span class="glyphicon glyphicon-heart favorite-heart" data-course-id="36" data-school-id=""></span>
+
+  </div>
+</a>
+               </li>
+               <li>
+                  <style>
+    .course-card .course-intro > p > em {
+        color: transparent;
+        -webkit-transition: color .4s ease-in-out .2s;
+        -moz-transition: color .4s ease-in-out .2s;
+        -ms-transition: color .4s ease-in-out .2s;
+        -o-transition: color .4s ease-in-out .2s;
+        transition: color .4s ease-in-out .2s;
+    }
+
+    .course-card:hover .course-intro > p > em {
+        color: red;
+    }
+    .course-card h4 em {
+        color: red;
+    }
+</style>
+<a class="course-card thumbnail" href="/courses/34">
+  <img alt="Normal         excel    " class="img-responsive" src="__PUBLIC__/images/normal_________Excel_-__.png" style="min-height: 140px" />
+  <div class="caption open">
+    <div class="float-blk">
+          <h4>来自“冬天”的EXCEL</h4>
+
+      <div class="price">
+            <span class="priceless">免费</span>
+      </div>
+
+
+
+      <div class="course-info">
+        <p><span class="label-course label-open-course">公开课</span></p>
+            <p>
+                  <span class="icon icon-film"></span>&nbsp;更新至第15节视频
+            </p>
+      </div>
+
+      <div class="course-intro">
+            <p>我们选取了大家可以用到的热门小技巧，旨在带领你认识有趣的Excel世界。</p>
+      </div>
+      <div class="course-review">
+        <!--<span class="score">8.8分</span>-->
+        <span class="star">
+  <span class="star-fill">
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-half-fill active"></span>
+  </span>
+  <span class="score">(8.8分)</span>
+</span>
+
+
+          <span class="count pull-right" data-toggle="tooltip" title="观看次数">
+            <span class="icon icon-play"></span>
+            59.1万
+          </span>
+      </div>
+    </div>
+  </div>
+  <div class="course-favorite open_course_34_collection">
+        <span class="glyphicon glyphicon-heart favorite-heart" data-course-id="34" data-school-id=""></span>
+
+  </div>
+</a>
+               </li>
+               <li>
+                  <style>
+    .course-card .course-intro > p > em {
+        color: transparent;
+        -webkit-transition: color .4s ease-in-out .2s;
+        -moz-transition: color .4s ease-in-out .2s;
+        -ms-transition: color .4s ease-in-out .2s;
+        -o-transition: color .4s ease-in-out .2s;
+        transition: color .4s ease-in-out .2s;
+    }
+
+    .course-card:hover .course-intro > p > em {
+        color: red;
+    }
+    .course-card h4 em {
+        color: red;
+    }
+</style>
+<a class="course-card thumbnail" href="course_detail.html">
+  <img alt="Normal  ppt         2 " class="img-responsive" src="__PUBLIC__/images/normal__PPT______-__2_.png" style="min-height: 140px" />
+  <div class="caption open">
+    <div class="float-blk">
+          <h4>PPT武林绝杀技</h4>
+
+      <div class="price">
+            <span class="priceless">免费</span>
+      </div>
+
+
+
+      <div class="course-info">
+        <p><span class="label-course label-open-course">公开课</span></p>
+            <p>
+                  <span class="icon icon-film"></span>&nbsp;更新至第10节视频
+            </p>
+      </div>
+
+      <div class="course-intro">
+            <p>上班族避免不了做各种工作汇报，这门课就是教你做好这些工作汇报的相关工作！</p>
+      </div>
+      <div class="course-review">
+        <!--<span class="score">8.4分</span>-->
+        <span class="star">
+  <span class="star-fill">
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill active"></span>
+        <span class="icon icon-star-fill"></span>
+  </span>
+  <span class="score">(8.4分)</span>
+</span>
+
+
+          <span class="count pull-right" data-toggle="tooltip" title="观看次数">
+            <span class="icon icon-play"></span>
+            34.6万
+          </span>
+      </div>
+    </div>
+  </div>
+  <div class="course-favorite open_course_33_collection">
+        <span class="glyphicon glyphicon-heart favorite-heart" data-course-id="33" data-school-id=""></span>
+
+  </div>
+</a>
+               </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-1"></div>
+    <div class="col-xs-10">
+      <div class="teacher-detail-article">
+        <dl>
+          <dt>文章</dt>
+            暂无文章
+        </dl>
+      </div>
+    </div>
+    <div class="col-xs-1"></div>
+  </div>
+
+</div>
+
+        <footer class="footer" id="footer">
+  <div class="links">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-2">
+          <div class="logo">
+            <img src="__PUBLIC__/images/logo-white.png" alt="">
+          </div>
+        </div>
+        <div class="col-xs-5">
+          <div class="row">
+            <div class="col-xs-3">
+              <h5>关于我们</h5>
+              <ul class="list-unstyled">
+                <li><a href="about.html#advantage-anchor">我们的优势</a></li>
+                <li><a href="about.html#news-anchor">资讯报道</a></li>
+                <li><a href="about.html#joinus-anchor">加入我们</a></li>
+                <li><a href="about.html#contact-anchor">联系我们</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-3">
+              <h5>产品&amp;服务</h5>
+              <ul class="list-unstyled">
+                <li><a href="products.html#production_intro-anchor">产品介绍</a></li>
+                <li><a href="products.html#institution_cooperate-anchor">校企合作</a></li>
+                <li><a href="products.html#business_cooperate-anchor">商务合作</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-3">
+              <h5>帮助中心</h5>
+              <ul class="list-unstyled">
+                <li><a href="help.html#common_question-anchor">常见问题</a></li>
+                <li><a href="help.html#contact_customer-anchor">联系客服</a></li>
+                <li><a href="help.html#user_agreement-anchor">服务协议</a></li>
+                <li><a href="help.html#copyright_explain-anchor">隐私政策</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-3">
+              <h5>优质资源</h5>
+              <ul class="list-unstyled">
+                <li><a href="/instructors">优秀讲师</a></li>
+                <li><a href="course_list.html">全部课程</a></li>
+                <li><a href="/good_resource#cooperate_platform">合作平台</a></li>
+                <li><a href="/verifies">证书验证</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-4 pull-right social-media">
+          <div class="row">
+            <div class="col-xs-7">
+              <a href="http://bbs.kaikeba.com" class="btn btn-lg btn-block btn-gflt" target="_blank">
+                <span><img src="__PUBLIC__/images/gflt_logo.png" alt=""></span>
+                &nbsp;&nbsp;官方论坛
+              </a>
+              <a href="http://weibo.com/kaikeba" class="btn btn-lg btn-block btn-weibo" target="_blank">
+                <span><img src="__PUBLIC__/images/weibo_logo.png" alt=""></span>
+                &nbsp;&nbsp;立即关注
+              </a>
+              <a href="http://t.qq.com/kaikeba" class="btn btn-lg btn-block btn-douban" target="_blank">
+                <span><img src="__PUBLIC__/images/douban_logo.png" alt=""></span>
+                &nbsp;&nbsp;立即收听
+              </a>
+            </div>
+            <div class="col-xs-5">
+              <img src="__PUBLIC__/images/weixin-QR-footer.png" alt="" class="weixin-QR">
+              <!--<a href=""><img src="__PUBLIC__/images/QQ_talk.png" alt=""></a>-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright text-center">
+    <p>HJX版权所有&nbsp;&nbsp;&nbsp;<a href="https://tsm.miit.gov.cn/pages/Portal.aspx?uKey=ukey" target="_blank">京ICP证140465号</a>&nbsp;&nbsp;&nbsp;<a href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action" target="_blank">京ICP备13032407号-1</a>&nbsp;&nbsp;&nbsp;京公网安备 11010802013162</p>
+    <p>公司地址：大连&nbsp;&nbsp;邮箱：hjx@hhhhhjx.cn</p>
+  </div>
+</footer>
+<!-- Piwik -->
+
+
+<!-- Google Code for &#27880;&#20876; Conversion Page -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 983566162;
+    var google_conversion_language = "en";
+    var google_conversion_format = "2";
+    var google_conversion_color = "ffffff";
+    var google_conversion_label = "wTJBCL7Q9gcQ0o6A1QM";
+    var google_remarketing_only = false;
+    /* ]]> */
+</script>
+<div style="display: none;">
+  <script type="text/javascript" src="__PUBLIC__/js/conversion.js">
+  </script>
+  <noscript>
+    <div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/983566162/?label=wTJBCL7Q9gcQ0o6A1QM&amp;guid=ON&amp;script=0"/>
+    </div>
+  </noscript>
+
+  <script type="text/javascript">
+      $(document).ready(function(){
+          var src_url = window.location.href;
+          $("[click_source]").each(function(){
+              var src_ele_value = $(this).attr("click_source");
+              var tag_name = $(this).prop('tagName');
+              if (tag_name == 'UL') {
+                  $(this).find("a").each(function (index) {
+                      $(this).click(function () {
+                          var des_url = $(this).attr("href");
+                          _paq.push(['setCustomVariable', '1', 'user_click', src_ele_value + '||' + index + '||' + src_url + '||' + des_url, 'page']);
+                          _paq.push(['trackPageView']);
+                      });
+                  });
+              }else if (tag_name == 'A') {
+                  $(this).click(function () {
+                      var des_url = $(this).attr("href");
+                      _paq.push(['setCustomVariable', '1', 'user_click', src_ele_value + '||' + src_url + '||' + des_url, 'page']);
+                      _paq.push(['trackPageView']);
+                  });
+              }else if (tag_name == 'INPUT'){
+                  $(this).click(function () {
+                      _paq.push(['setCustomVariable', '1', 'user_click', src_ele_value + '||' + src_url, 'page']);
+                      _paq.push(['trackPageView']);
+                  });
+              }
+
+          })
+      });
+  </script>
+  <script src="__PUBLIC__/js/monitorView-2.0.js"></script>
+  <noscript><p><img src="http://piwik.kaikeba.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+
+  <!--<!-- ask Li,Wenchao adn Ren,Shiqi-->-->
+  <!--<script type="text/javascript" src="http://tj.ranknowcn.com/tj/t.php?site=1101"></script>-->
+</div>
+<!-- End Piwik Code -->
+
+
+<!--[if IE 8]>
+<script>
+    if(!!!$.cookie('ie8-bootstrap-warning')){
+        $('body').prepend('<div class="alert alert-danger alert-dismissible fade in text-center" id="ie8-bootstrap-warning" style="border-color: #d84a36; background:#d84a36;color:white;position: absolute; z-index: 9999; width: 100%;" role="alert">'
+                + '<button type="button" class="close" data-dismiss="alert" aria-label="关闭" style="position: absolute; right: 10px; margin-right: 0px;"><span aria-hidden="true">×</span></button>'
+                + '使用IE8及以下版本可能会对你使用网站部分功能造成影响，请使用更高版本或者chrome浏览器'
+                + '</div>');
+        $('#ie8-bootstrap-warning').on('closed.bs.alert', function () {
+            $.cookie('ie8-bootstrap-warning', 'true');
+        })
+    }
+</script>
+<![endif]-->
+
+<!--[if lt IE 8]>
+<script>
+    if(!!!$.cookie('ie8-bootstrap-warning')){
+        $('body').prepend('<div class="alert alert-danger alert-dismissible fade in text-center" id="ie8-bootstrap-warning" style="border-color: #d84a36; background:#d84a36;color:white;position: absolute; z-index: 9999; width: 100%;" role="alert">'
+                + '<button type="button" class="close" data-dismiss="alert" aria-label="关闭" style="position: absolute; right: 10px; width: 100px; padding-right: 10px; height: 30px; margin-right: 0px;"><span aria-hidden="true">×</span></button>'
+                + '使用IE8及以下版本可能会对你使用网站部分功能造成影响，请使用更高版本或者chrome浏览器'
+                + '</div>');
+        $('#ie8-bootstrap-warning').on('closed.bs.alert', function () {
+            $.cookie('ie8-bootstrap-warning', 'true');
+        })
+    }
+</script>
+<![endif]-->
+
+
+
+
+
+          <!--<a click_source="bugs_entrance" class="bugs-entrance" href="http://www.kaikeba.com/activities/christmas-newyear?qtm=christmas&amp;source=floating_window">-->
+            <!--<span class="close-bugs-entrance"></span>-->
+          <!--</a>-->
+          <script>
+//              $('.close-bugs-entrance').click(function(event) {
+//                  event.preventDefault();
+//                  event.stopPropagation();
+//                  $(this).parent().remove();
+//              });
+          </script>
+
+  </body>
+</html>

@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+  <meta name="keywords" content="IT课程,公开课,在线教育,云计算,大数据,物联网,视频教程,编程开发,交互设计,互联网营销,IT职业培训,IT职业规划,幕课论坛,MOOC,视频课程,职场进修,慕课论坛,移动云计算,创业"/>
+  <meta name="description" content="开课吧是关于云计算、大数据、互联网营销、交互设计、编程语言、移动云计算等泛IT学科的在线课程，在线教育，职业培训等泛IT学科终身在线教育平台。"/>
+
+  <title>注册</title>
+  <link data-turbolinks-track="true" href="__PUBLIC__/css/application-259d88b7df3d30d7eec66f46114169d9.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="__PUBLIC__/css/user-44752681eea2af83918f1dc30a2b564c.css" media="all" rel="stylesheet" />
+  <link data-turbolinks-track="true" href="__PUBLIC__/css/gaoxiaobang-da3a2db2fecddd160bc3e3c4a3a3bc38.css" media="all" rel="stylesheet" />
+  <script data-turbolinks-track="true" src="__PUBLIC__/js/application-fb8562c33e2e6c7d207653c10215fc91.js"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="HfyB28ni5Qj/hP5e8BrOFEnWbp74KJ0mHJ2R98WyF40=" name="csrf-token" />
+  <link rel="shortcut icon" href="images/favicon.ico"/>
+  <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-precomposed.png">
+  <!--[if lt IE 9]>
+  <script src="__PUBLIC__/js/html5boilerplate-20c3bd30c07e9e58ea1042f1da27d6b7.js"></script>
+<script src="__PUBLIC__/js/html5shiv.min-f7427b1968f14d148d6c973339ec8bbb.js"></script>
+<script src="__PUBLIC__/js/respond.min-497dcd05a34f78a0295d8ba4cc5008df.js"></script>
+  <![endif]-->
+</head>
+<body>
+<!--<p class="notice"></p>-->
+<!--<p class="alert"></p>-->
+
+<div class="signup">
+  <div class="signin-header">
+    <div class="signin-container">
+      <div class="pull-left">
+        <a href="index.html" class="signin-logo">开课吧</a>
+        <div class="text">注册开课吧账号</div>
+      </div>
+      <div class="pull-right">
+        我已经注册，现在就&nbsp;
+        <a href="{:U('Index/Login')}" class="color-lnk">登录</a>
+      </div>
+    </div>
+  </div>
+  <div class="center-block">
+    <form accept-charset="UTF-8" action="/users" class="simple_form new_user" id="register_form" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HfyB28ni5Qj/hP5e8BrOFEnWbp74KJ0mHJ2R98WyF40=" /></div>
+        <div class="form-group hidden user_landing_page_course_url"><input class="hidden" id="user_landing_page_course_url" name="user[landing_page_course_url]" type="hidden" value="http://www.kaikeba.comcourse_detail.html" /></div>
+        <div class="signup-main" action="">
+          <h4>注&nbsp;册</h4>
+          <div class="form-group status-warning">
+            <!-- 切换status-warning / status-error / status-success 可以改变提示信息的显示以及颜色 -->
+            <!-- status-success 状态下，msg隐藏，msg-success显示 -->
+            <label class="control-label" for="user_username">用户名</label>
+            <input aria-required="true" class="string required form-control" id="user_username" maxlength="18" name="user[username]" placeholder="用户名" required="required" size="18" type="text" />
+            <div class="input-icon bg-username"></div>
+            <span class="msg-warning">3-18位中英文、数字、下划线</span>
+            <div class="error-block"></div>
+            <span class="msg-success">&nbsp;</span>
+          </div>
+          <div class="form-group status-warning">
+            <label class="control-label" for="user_email_mobile">邮箱/手机</label>
+            <input autocomplete="off" class="string optional form-control" id="user_email_or_mobile" maxlength="50" name="user[email_or_mobile]" placeholder="邮箱/手机号" size="50" type="text" />
+            <div class="input-icon bg-mobile"></div>
+            <!--<input type="text" maxlength="50" class="form-control bg-mobile" id="txt_emailphone" autocomplete="false" name="txt_emailphone" placeholder="请输入邮箱/手机号">-->
+            <!-- bg-mail邮件注册，bg-mobile手机注册 -->
+            <span class="msg-warning">请输入正确的邮箱/手机号</span>
+            <div class="error-block"></div>
+            <span class="msg-success">&nbsp;</span>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@sina.com"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@163.com"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@qq.com"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@126.com"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@sina.cn"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@hotmail.com"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@gmail.com"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@sohu.com"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@139.com"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@wo.com.cn"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@189.com"></a>
+              </li>
+              <li role="presentation">
+                <a role="menuitem" tabindex="-1" href="javascript:;" format="@21cn.com"></a>
+              </li>
+            </ul>
+          </div>
+          <div class="form-group status-warning">
+            <label class="control-label" for="user_password">密码</label>
+            <input autocomplete="false" class="password optional form-control" id="user_password" maxlength="16" name="user[password]" placeholder="请输入密码" size="16" type="password" />
+            <div class="input-icon bg-pwd"></div>
+            <span class="msg-warning">6-16位数字、字母或符号的组合</span>
+            <div class="error-block"></div>
+            <span class="msg-success">&nbsp;</span>
+          </div>
+          <div class="form-group status-warning">
+  <!-- 添加 switch-mail 类可以切换到邮件验证 -->
+  <label class="control-label" for="user_captcha">验证码</label>
+  <input autocomplete="off" class="form-control txt-code" id="user_captcha" name="user[captcha]" placeholder="验证码" required="required" type="text" value="" />
+  <!--<input type="text" maxlength="6" class="form-control txt-code" id="user_code" name="user_code" placeholder="验证码">-->
+  <div class="tab-mail form-control">
+    <div id="captcha_image" style="display: inline-block; max-height: 44px;">
+      <img alt="captcha" src="/simple_captcha?code=13c42f1258fe92411e21907e86621beba6de584d&amp;time=1428624375" /><input id="user_captcha_key" name="user[captcha_key]" type="hidden" value="13c42f1258fe92411e21907e86621beba6de584d" />
+    </div>
+    <a id="refresh_captcha_button" href="javascript:void(0);">换一换</a>
+  </div>
+  <div class="tab-mobile">
+    <div id="mobile_captcha"></div>
+    <button type="button" class="btn btn-primary" id="refresh_mobile_captcha_button">免费获取短信验证码</button>
+    <button type="button" class="btn btn-waitting">60''后重新发送</button>
+  </div>
+  <span class="msg-warning">4-6位数字、字母</span>
+  <div class="error-block"></div>
+  <span class="msg-success">&nbsp;</span>
+</div>
+
+<script>
+    $("#refresh_captcha_button").click(function(){
+        $.post("/users/refresh_captcha?object=user");
+    });
+    $("#refresh_mobile_captcha_button").click(function(){
+        $.post("/users/refresh_mobile_captcha?object=user", { mobile: $('#user_email_or_mobile').val() });
+    })
+</script>
+
+
+          <div class="submit-div">
+            <button class="btn btn-warning" type="submit">同意协议并注册</button>
+            <p class="remarks">
+              <span>如果您注册，即表示您已阅读并同意</span>
+              <a href="help.html#user_agreement-anchor" target="_blank">《服务协议》</a>
+            </p>
+            <hr/>
+            <a class="switch-login" href="{:U('Index/Login')}">已有账号，点此登录</a>
+          </div>
+        </div>
+</form>  </div>
+</div>
+
+<script src="__PUBLIC__/js/signup-df186aea04637ab5e68434a347ae462b.js"></script>
+
+<script type="text/javascript">
+    $(function(){
+        $('#user_username').trigger('blur');
+        $('#user_email_or_mobile').trigger('blur');
+    });
+
+</script>
+
+
+
+<!--[if lte IE 9]>
+  <script src="__PUBLIC__/js/jquery.placeholder-f99209ea3cff0a13a5ec10e1e69b243f.js"></script>
+<![endif]-->
+<div style="display: none; line-height: 0px;">
+  <footer class="footer" id="footer">
+  <div class="links">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-2">
+          <div class="logo">
+            <img src="images/logo-white.png" alt="">
+          </div>
+        </div>
+        <div class="col-xs-5">
+          <div class="row">
+            <div class="col-xs-3">
+              <h5>关于我们</h5>
+              <ul class="list-unstyled">
+                <li><a href="about.html#advantage-anchor">我们的优势</a></li>
+                <li><a href="about.html#news-anchor">资讯报道</a></li>
+                <li><a href="about.html#joinus-anchor">加入我们</a></li>
+                <li><a href="about.html#contact-anchor">联系我们</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-3">
+              <h5>产品&amp;服务</h5>
+              <ul class="list-unstyled">
+                <li><a href="products.html#production_intro-anchor">产品介绍</a></li>
+                <li><a href="products.html#institution_cooperate-anchor">校企合作</a></li>
+                <li><a href="products.html#business_cooperate-anchor">商务合作</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-3">
+              <h5>帮助中心</h5>
+              <ul class="list-unstyled">
+                <li><a href="help.html#common_question-anchor">常见问题</a></li>
+                <li><a href="help.html#contact_customer-anchor">联系客服</a></li>
+                <li><a href="help.html#user_agreement-anchor">服务协议</a></li>
+                <li><a href="help.html#copyright_explain-anchor">隐私政策</a></li>
+              </ul>
+            </div>
+            <div class="col-xs-3">
+              <h5>优质资源</h5>
+              <ul class="list-unstyled">
+                <li><a href="/instructors">优秀讲师</a></li>
+                <li><a href="course_list.html">全部课程</a></li>
+                <li><a href="/good_resource#cooperate_platform">合作平台</a></li>
+                <li><a href="/verifies">证书验证</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-4 pull-right social-media">
+          <div class="row">
+            <div class="col-xs-7">
+              <a href="http://bbs.kaikeba.com" class="btn btn-lg btn-block btn-gflt" target="_blank">
+                <span><img src="images/gflt_logo.png" alt=""></span>
+                &nbsp;&nbsp;官方论坛
+              </a>
+              <a href="http://weibo.com/kaikeba" class="btn btn-lg btn-block btn-weibo" target="_blank">
+                <span><img src="images/weibo_logo.png" alt=""></span>
+                &nbsp;&nbsp;立即关注
+              </a>
+              <a href="http://t.qq.com/kaikeba" class="btn btn-lg btn-block btn-douban" target="_blank">
+                <span><img src="images/douban_logo.png" alt=""></span>
+                &nbsp;&nbsp;立即收听
+              </a>
+            </div>
+            <div class="col-xs-5">
+              <img src="images/weixin-QR-footer.png" alt="" class="weixin-QR">
+              <!--<a href=""><img src="images/QQ_talk.png" alt=""></a>-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright text-center">
+    <p>HJX版权所有&nbsp;&nbsp;&nbsp;<a href="https://tsm.miit.gov.cn/pages/Portal.aspx?uKey=ukey" target="_blank">京ICP证140465号</a>&nbsp;&nbsp;&nbsp;<a href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action" target="_blank">京ICP备13032407号-1</a>&nbsp;&nbsp;&nbsp;京公网安备 11010802013162</p>
+    <p>公司地址：大连&nbsp;&nbsp;邮箱：hjx@hhhhhjx.cn</p>
+  </div>
+</footer>
+<!-- Piwik -->
+
+
+<!-- Google Code for &#27880;&#20876; Conversion Page -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 983566162;
+    var google_conversion_language = "en";
+    var google_conversion_format = "2";
+    var google_conversion_color = "ffffff";
+    var google_conversion_label = "wTJBCL7Q9gcQ0o6A1QM";
+    var google_remarketing_only = false;
+    /* ]]> */
+</script>
+<div style="display: none;">
+  <script type="text/javascript" src="__PUBLIC__/js/conversion.js">
+  </script>
+  <noscript>
+    <div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/983566162/?label=wTJBCL7Q9gcQ0o6A1QM&amp;guid=ON&amp;script=0"/>
+    </div>
+  </noscript>
+
+  <script type="text/javascript">
+      $(document).ready(function(){
+          var src_url = window.location.href;
+          $("[click_source]").each(function(){
+              var src_ele_value = $(this).attr("click_source");
+              var tag_name = $(this).prop('tagName');
+              if (tag_name == 'UL') {
+                  $(this).find("a").each(function (index) {
+                      $(this).click(function () {
+                          var des_url = $(this).attr("href");
+                          _paq.push(['setCustomVariable', '1', 'user_click', src_ele_value + '||' + index + '||' + src_url + '||' + des_url, 'page']);
+                          _paq.push(['trackPageView']);
+                      });
+                  });
+              }else if (tag_name == 'A') {
+                  $(this).click(function () {
+                      var des_url = $(this).attr("href");
+                      _paq.push(['setCustomVariable', '1', 'user_click', src_ele_value + '||' + src_url + '||' + des_url, 'page']);
+                      _paq.push(['trackPageView']);
+                  });
+              }else if (tag_name == 'INPUT'){
+                  $(this).click(function () {
+                      _paq.push(['setCustomVariable', '1', 'user_click', src_ele_value + '||' + src_url, 'page']);
+                      _paq.push(['trackPageView']);
+                  });
+              }
+
+          })
+      });
+  </script>
+  <script src="__PUBLIC__/js/monitorView-2.0.js"></script>
+  <noscript><p><img src="http://piwik.kaikeba.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+
+  <!--<!-- ask Li,Wenchao adn Ren,Shiqi-->-->
+  <!--<script type="text/javascript" src="http://tj.ranknowcn.com/tj/t.php?site=1101"></script>-->
+</div>
+<!-- End Piwik Code -->
+
+
+<!--[if IE 8]>
+<script>
+    if(!!!$.cookie('ie8-bootstrap-warning')){
+        $('body').prepend('<div class="alert alert-danger alert-dismissible fade in text-center" id="ie8-bootstrap-warning" style="border-color: #d84a36; background:#d84a36;color:white;position: absolute; z-index: 9999; width: 100%;" role="alert">'
+                + '<button type="button" class="close" data-dismiss="alert" aria-label="关闭" style="position: absolute; right: 10px; margin-right: 0px;"><span aria-hidden="true">×</span></button>'
+                + '使用IE8及以下版本可能会对你使用网站部分功能造成影响，请使用更高版本或者chrome浏览器'
+                + '</div>');
+        $('#ie8-bootstrap-warning').on('closed.bs.alert', function () {
+            $.cookie('ie8-bootstrap-warning', 'true');
+        })
+    }
+</script>
+<![endif]-->
+
+<!--[if lt IE 8]>
+<script>
+    if(!!!$.cookie('ie8-bootstrap-warning')){
+        $('body').prepend('<div class="alert alert-danger alert-dismissible fade in text-center" id="ie8-bootstrap-warning" style="border-color: #d84a36; background:#d84a36;color:white;position: absolute; z-index: 9999; width: 100%;" role="alert">'
+                + '<button type="button" class="close" data-dismiss="alert" aria-label="关闭" style="position: absolute; right: 10px; width: 100px; padding-right: 10px; height: 30px; margin-right: 0px;"><span aria-hidden="true">×</span></button>'
+                + '使用IE8及以下版本可能会对你使用网站部分功能造成影响，请使用更高版本或者chrome浏览器'
+                + '</div>');
+        $('#ie8-bootstrap-warning').on('closed.bs.alert', function () {
+            $.cookie('ie8-bootstrap-warning', 'true');
+        })
+    }
+</script>
+<![endif]-->
+
+
+
+</div>
+</body>
+</html>

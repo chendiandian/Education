@@ -1,0 +1,10 @@
+[ 2015-12-24T22:53:33+08:00 ] ::1 /thinkphp3.2.3/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2015-12-24T22:58:19+08:00 ] ::1 /ThinkPHP3.2.3/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000121s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+
