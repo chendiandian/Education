@@ -1,0 +1,25 @@
+[ 2015-12-25T10:26:04+08:00 ] ::1 /Education/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2015-12-25T10:26:07+08:00 ] ::1 /Education/Home/Index/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2015-12-25T10:26:07+08:00 ] ::1 /Education/Home/Index/images/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2015-12-25T10:26:07+08:00 ] ::1 /Education/Home/Index/images/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2015-12-25T10:29:30+08:00 ] ::1 /Education/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+

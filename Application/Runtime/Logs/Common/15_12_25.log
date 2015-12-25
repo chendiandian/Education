@@ -85,3 +85,87 @@ ERR: 无法加载模块:Course_list
 [ 2015-12-25T09:02:23+08:00 ] ::1 /ThinkPHP3.2.3/course_list.html?utf8=%E2%9C%93&q%5Bname_or_institution_name_cont%5D=
 ERR: 无法加载模块:Course_list
 
+[ 2015-12-25T10:26:05+08:00 ] ::1 /Education/images/middle___________.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Images
+
+[ 2015-12-25T10:26:05+08:00 ] ::1 /Education/images/large________.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Images
+
+[ 2015-12-25T10:26:05+08:00 ] ::1 /Education/Public/images/large_30__________/Education____.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-25T10:26:05+08:00 ] ::1 /Education/images/middle___________.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+ERR: 无法加载模块:Images
+
+[ 2015-12-25T10:26:05+08:00 ] ::1 /Education/Public/images/large_30__________/Education____.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-25T10:26:05+08:00 ] ::1 /Education/images/large________.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+ERR: 无法加载模块:Images
+
+[ 2015-12-25T10:28:07+08:00 ] ::1 /Education/assets/i/favicon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-12-25T10:28:08+08:00 ] ::1 /Education/assets/i/favicon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-12-25T10:29:30+08:00 ] ::1 /Education/images/large________.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Images
+
+[ 2015-12-25T10:29:30+08:00 ] ::1 /Education/images/middle___________.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Images
+
+[ 2015-12-25T10:29:30+08:00 ] ::1 /Education/Public/images/large_30__________/Education____.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-25T10:29:30+08:00 ] ::1 /Education/images/middle___________.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+ERR: 无法加载模块:Images
+
+[ 2015-12-25T10:29:30+08:00 ] ::1 /Education/images/large________.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Images
+
+[ 2015-12-25T10:29:30+08:00 ] ::1 /Education/Public/images/large_30__________/Education____.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Public
+

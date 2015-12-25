@@ -14,39 +14,39 @@
 
 
 
-    <script data-turbolinks-track="true" src=" /ThinkPHP3.2.3/Public/js/application-fb8562c33e2e6c7d207653c10215fc91.js"></script>
+    <script data-turbolinks-track="true" src=" /Education/Public/js/application-fb8562c33e2e6c7d207653c10215fc91.js"></script>
     <meta content="authenticity_token" name="csrf-param" />
 <meta content="HfyB28ni5Qj/hP5e8BrOFEnWbp74KJ0mHJ2R98WyF40=" name="csrf-token" />
-	<link rel="apple-touch-icon" sizes="57x57" href=" /ThinkPHP3.2.3/Public/images/apple-touch-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/ThinkPHP3.2.3/Public/images/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="72x72" href=" /ThinkPHP3.2.3/Public/images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/ThinkPHP3.2.3/Public/images/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="60x60" href=" /ThinkPHP3.2.3/Public/images/apple-touch-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="/ThinkPHP3.2.3/Public/images/apple-touch-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="76x76" href=" /ThinkPHP3.2.3/Public/images/apple-touch-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="/ThinkPHP3.2.3/Public/images/apple-touch-icon-152x152.png">
-	<link rel="apple-touch-icon" sizes="180x180" href=" /ThinkPHP3.2.3/Public/images/apple-touch-icon-180x180.png">
-	<link rel="icon" type="image/png" href=" /ThinkPHP3.2.3/Public/images/favicon-192x192.png" sizes="192x192">
-	<link rel="icon" type="image/png" href=" /ThinkPHP3.2.3/Public/images/favicon-160x160.png" sizes="160x160">
-	<link rel="icon" type="image/png" href=" /ThinkPHP3.2.3/Public/images/favicon-96x96.png" sizes="96x96">
-	<link rel="icon" type="image/png" href=" /ThinkPHP3.2.3/Public/images/favicon-16x16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href=" /ThinkPHP3.2.3/Public/images/favicon-32x32.png" sizes="32x32">
+	<link rel="apple-touch-icon" sizes="57x57" href=" /Education/Public/images/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/Education/Public/images/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href=" /Education/Public/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/Education/Public/images/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href=" /Education/Public/images/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/Education/Public/images/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href=" /Education/Public/images/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/Education/Public/images/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href=" /Education/Public/images/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href=" /Education/Public/images/favicon-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href=" /Education/Public/images/favicon-160x160.png" sizes="160x160">
+	<link rel="icon" type="image/png" href=" /Education/Public/images/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href=" /Education/Public/images/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href=" /Education/Public/images/favicon-32x32.png" sizes="32x32">
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
-    <link href=" /ThinkPHP3.2.3/Public/css/bootstrap.min-8fb290f8babcc5e9f414858c033c7f0d.css" media="screen" rel="stylesheet" />
-    <link href=" /ThinkPHP3.2.3/Public/css/flexslider5-a38a0d5dcb9aaf913de1a8d36f3ee87d.css" media="screen" rel="stylesheet" />
-    <link href=" /ThinkPHP3.2.3/Public/css/global-debfc8ec0a7e4f27bc779fbae38e8375.css" media="screen" rel="stylesheet" />
-    <link href=" /ThinkPHP3.2.3/Public/css/anonymous_index5-687a0671e5da4886ba342f19828b4557.css" media="screen" rel="stylesheet" />
-    <link href=" /ThinkPHP3.2.3/Public/css/header_index5-164b41c7428ea8a790b352ecafdff0a1.css" media="screen" rel="stylesheet" />
-    <link href=" /ThinkPHP3.2.3/Public/css/footer_index5-9584f4808f250f7a809ccc2b49b4d6fa.css" media="screen" rel="stylesheet" />
-    <link href=" /ThinkPHP3.2.3/Public/css/banner_slider5-29883169fc4a8245c310d28c17cd3db1.css" media="screen" rel="stylesheet" />
+    <link href=" /Education/Public/css/bootstrap.min-8fb290f8babcc5e9f414858c033c7f0d.css" media="screen" rel="stylesheet" />
+    <link href=" /Education/Public/css/flexslider5-a38a0d5dcb9aaf913de1a8d36f3ee87d.css" media="screen" rel="stylesheet" />
+    <link href=" /Education/Public/css/global-debfc8ec0a7e4f27bc779fbae38e8375.css" media="screen" rel="stylesheet" />
+    <link href=" /Education/Public/css/anonymous_index5-687a0671e5da4886ba342f19828b4557.css" media="screen" rel="stylesheet" />
+    <link href=" /Education/Public/css/header_index5-164b41c7428ea8a790b352ecafdff0a1.css" media="screen" rel="stylesheet" />
+    <link href=" /Education/Public/css/footer_index5-9584f4808f250f7a809ccc2b49b4d6fa.css" media="screen" rel="stylesheet" />
+    <link href=" /Education/Public/css/banner_slider5-29883169fc4a8245c310d28c17cd3db1.css" media="screen" rel="stylesheet" />
     <!--[if lt IE 9]>
-    <script src=" /ThinkPHP3.2.3/Public/js/html5shiv.min-f7427b1968f14d148d6c973339ec8bbb.js"></script>
-<script src=" /ThinkPHP3.2.3/Public/js/respond.min-497dcd05a34f78a0295d8ba4cc5008df.js"></script>
+    <script src=" /Education/Public/js/html5shiv.min-f7427b1968f14d148d6c973339ec8bbb.js"></script>
+<script src=" /Education/Public/js/respond.min-497dcd05a34f78a0295d8ba4cc5008df.js"></script>
     <![endif]-->
     <!--[if lte IE 9]>
-    <script src=" /ThinkPHP3.2.3/Public/js/html5boilerplate-20c3bd30c07e9e58ea1042f1da27d6b7.js"></script>
-<script src=" /ThinkPHP3.2.3/Public/js/jquery.placeholder-f99209ea3cff0a13a5ec10e1e69b243f.js"></script>
+    <script src=" /Education/Public/js/html5boilerplate-20c3bd30c07e9e58ea1042f1da27d6b7.js"></script>
+<script src=" /Education/Public/js/jquery.placeholder-f99209ea3cff0a13a5ec10e1e69b243f.js"></script>
     <![endif]-->
     <script>
       var webApiUrl = "http://w.api.kaikeba.com";
@@ -169,27 +169,27 @@
 <div class="anonymous_index bannerslider">
   <div class="flexslider zd1">
     <ul class="slides">
-          <li data-thumb="/ThinkPHP3.2.3/Public/images/thumb__Ruby______.png">
+          <li data-thumb="/Education/Public/images/thumb__Ruby______.png">
             <a href="<?php echo U('Index/course_list');?>" target="_blank" click_source="top_banner_login" class="flex-img-holder">
-            <div class="flex-img-holder" style="background-image: url(/ThinkPHP3.2.3/Public/images/banner.png)">
+            <div class="flex-img-holder" style="background-image: url(/Education/Public/images/banner.png)">
             </div></a> </li>
-          <li data-thumb="/ThinkPHP3.2.3/Public/images/thumb__Ruby______.png">
+          <li data-thumb="/Education/Public/images/thumb__Ruby______.png">
             <a href="http://www.kaikeba.com/topics/itpm" target="_blank" click_source="top_banner_login" class="flex-img-holder">
-            <div class="flex-img-holder" style="background-image: url(/ThinkPHP3.2.3/Public/images/banner.png)">
+            <div class="flex-img-holder" style="background-image: url(/Education/Public/images/banner.png)">
             </div></a> </li>
-          <li data-thumb="/ThinkPHP3.2.3/Public/images/thumb__Ruby______.png">
+          <li data-thumb="/Education/Public/images/thumb__Ruby______.png">
             <a href="<?php echo U('Index/course_list');?>" target="_blank" click_source="top_banner_login" class="flex-img-holder">
-            <div class="flex-img-holder" style="background-image: url(/ThinkPHP3.2.3/Public/images/banner.png)">
+            <div class="flex-img-holder" style="background-image: url(/Education/Public/images/banner.png)">
             </div></a> </li>
-          <li data-thumb="/ThinkPHP3.2.3/Public/images/thumb__Ruby______.png">
+          <li data-thumb="/Education/Public/images/thumb__Ruby______.png">
             <a href="<?php echo U('Index/course_list');?>" target="_blank" click_source="top_banner_login" class="flex-img-holder">
-            <div class="flex-img-holder" style="background-image: url(/ThinkPHP3.2.3/Public/images/banner.png)">
+            <div class="flex-img-holder" style="background-image: url(/Education/Public/images/banner.png)">
             </div></a> </li>
     </ul>
     <div class="container controlNavContainer">
       <div class="block-menu">
         <div class="logoimg">
-          <a href="index.html"><img src="/ThinkPHP3.2.3/Public/images/logo-white-fanit.png" alt="kaikeba-logo" /></a>
+          <a href="index.html"><img src="/Education/Public/images/logo-white-fanit.png" alt="kaikeba-logo" /></a>
         </div>
         <div class="down-menu">
           <div class="down-menu-bg">
@@ -282,11 +282,11 @@
         <a href="http://ibm.kaikeba.com">
           <div class="course">
             <div class="img-course-collaborate text-center">
-              <img src="/ThinkPHP3.2.3/Public/images/middle___________.png" alt="" width="100%">
+              <img src="/Education/Public/images/middle___________.png" alt="" width="100%">
             </div>
             <h4 class="text-center">课程视频专区</h4>
             <div class="company-logo text-center">
-              <span> <img src="/ThinkPHP3.2.3/Public/images/blackbg_company_logo_1.png" alt=""> </span> <span class="company-line">|</span> <span>专区</span>
+              <span> <img src="/Education/Public/images/blackbg_company_logo_1.png" alt=""> </span> <span class="company-line">|</span> <span>专区</span>
             </div>
           </div>
         </a>
@@ -295,11 +295,11 @@
         <a href="http://www.kaikeba.com/courses/283">
           <div class="course">
             <div class="img-course-collaborate text-center">
-              <img src="/ThinkPHP3.2.3/Public/images/middle___________.png" alt="" width="100%">
+              <img src="/Education/Public/images/middle___________.png" alt="" width="100%">
             </div>
             <h4 class="text-center">PPT专区</h4>
             <div class="company-logo text-center">
-              <span> <img src="/ThinkPHP3.2.3/Public/images/blackbg_company_logo_3.png" alt=""> </span> <span  class="company-line">|</span> <span>PPT专区</span>
+              <span> <img src="/Education/Public/images/blackbg_company_logo_3.png" alt=""> </span> <span  class="company-line">|</span> <span>PPT专区</span>
             </div>
           </div>
         </a>
@@ -308,11 +308,11 @@
         <a href="http://www.kaikeba.com/topics/edm_thinking_1019">
           <div class="course">
             <div class="img-course-collaborate text-center">
-              <img src="/ThinkPHP3.2.3/Public/images/middle___________.png" alt="" width="100%">
+              <img src="/Education/Public/images/middle___________.png" alt="" width="100%">
             </div>
             <h4 class="text-center">考试专区</h4>
             <div class="company-logo text-center">
-              <span> <img src="/ThinkPHP3.2.3/Public/images/blackbg_company_logo_3.png" alt=""> </span> <span class="company-line">|</span> <span>考试专区</span>
+              <span> <img src="/Education/Public/images/blackbg_company_logo_3.png" alt=""> </span> <span class="company-line">|</span> <span>考试专区</span>
             </div>
           </div>
         </a>
@@ -321,11 +321,11 @@
         <a href="http://www.kaikeba.com/topics/liyi141020">
           <div class="course">
             <div class="img-course-collaborate text-center">
-              <img src="/ThinkPHP3.2.3/Public/images/middle___________.png" alt="" width="100%">
+              <img src="/Education/Public/images/middle___________.png" alt="" width="100%">
             </div>
             <h4 class="text-center">资源专区</h4>
             <div class="company-logo text-center">
-              <span> <img src="/ThinkPHP3.2.3/Public/images/blackbg_company_logo_4.png" alt=""> </span> <span class="company-line">|</span> <span>资源专区</span>
+              <span> <img src="/Education/Public/images/blackbg_company_logo_4.png" alt=""> </span> <span class="company-line">|</span> <span>资源专区</span>
             </div>
           </div>
         </a>
@@ -352,7 +352,7 @@
             <div id="feature">
               <div class="container">
                 <div class="row">
-                  <div class="col-xs-6 wwid"><img src="/ThinkPHP3.2.3/Public/images/feature-1.png" alt="feature"></div>
+                  <div class="col-xs-6 wwid"><img src="/Education/Public/images/feature-1.png" alt="feature"></div>
                   <div class="col-xs-6">
                     <div class="feature-desc">
                       <h1 class="feature-txt-gury" id="classtitle">课程全，知识多 <br>学校各个大神老师亲自视频教导</h1>
@@ -374,7 +374,7 @@
             <div id="feature">
               <div class="container">
                 <div class="row">
-                  <div class="col-xs-6 wwid"><img src="/ThinkPHP3.2.3/Public/images/feature-2.png" alt="feature"></div>
+                  <div class="col-xs-6 wwid"><img src="/Education/Public/images/feature-2.png" alt="feature"></div>
                   <div class="col-xs-6">
                     <div class="feature-desc">
                       <h1 class="feature-txt-gury" id="classtitle">课程全，知识多 <br>学校各个大神老师亲自视频教导</h1>
@@ -396,7 +396,7 @@
             <div id="feature">
               <div class="container">
                 <div class="row">
-                  <div class="col-xs-6 wwid"><img src="/ThinkPHP3.2.3/Public/images/feature-3.png" alt="feature"></div>
+                  <div class="col-xs-6 wwid"><img src="/Education/Public/images/feature-3.png" alt="feature"></div>
                   <div class="col-xs-6">
                     <div class="feature-desc">
                       <h1 class="feature-txt-gury" id="classtitle">课程全，知识多 <br>学校各个大神老师亲自视频教导</h1>
@@ -446,7 +446,7 @@
   <div class="media row">
             <a class="pull-left flex-foremost-course col-xs-7" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
                 <div class="media-object-viewport">
-                  <img alt="基于数据生命周期的，涵盖各阶段的管理过程" class="media-object" src="/ThinkPHP3.2.3/Public/images/large_________.png" />
+                  <img alt="基于数据生命周期的，涵盖各阶段的管理过程" class="media-object" src="/Education/Public/images/large_________.png" />
                   <div class="shadow-layer"></div>
                 </div>
                 <div class="caption">
@@ -458,7 +458,7 @@
           <ul class="media-list flex-course-list">
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/62">
-                      <span class="pull-left" href="#"><img alt="参加互联网革命的浪潮，一起颠覆这个世界" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_________-__.png" /></span>
+                      <span class="pull-left" href="#"><img alt="参加互联网革命的浪潮，一起颠覆这个世界" class="media-object" src="/Education/Public/images/middle_________-__.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">数据挖掘技术</h4>
                         <p>
@@ -470,7 +470,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
-                      <span class="pull-left" href="#"><img alt="HR事半功倍的秘密" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle__Excel_HR_______-___.png" /></span>
+                      <span class="pull-left" href="#"><img alt="HR事半功倍的秘密" class="media-object" src="/Education/Public/images/middle__Excel_HR_______-___.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">Excel在HR管理中的应用</h4>
                         <p>
@@ -482,7 +482,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
-                      <span class="pull-left" href="#"><img alt="从零做起，掌握如何给开源社区OpenSt" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_____OpenStack______.png" /></span>
+                      <span class="pull-left" href="#"><img alt="从零做起，掌握如何给开源社区OpenSt" class="media-object" src="/Education/Public/images/middle_____OpenStack______.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">如何给OpenStack做代码贡献</h4>
                         <p>
@@ -501,7 +501,7 @@
   <div class="media row">
             <a class="pull-left flex-foremost-course col-xs-7" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
                 <div class="media-object-viewport">
-                  <img alt="理解并掌握创业团队的构成与建设" class="media-object" src="/ThinkPHP3.2.3/Public/images/large_________1000x1000.jpg" />
+                  <img alt="理解并掌握创业团队的构成与建设" class="media-object" src="/Education/Public/images/large_________1000x1000.jpg" />
                   <div class="shadow-layer"></div>
                 </div>
                 <div class="caption">
@@ -513,7 +513,7 @@
           <ul class="media-list flex-course-list">
                 <li>
                   <a class="media" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
-                      <span class="pull-left" href="#"><img alt="目标人群为大三/大四即将毕业的学生。" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_1100003.png" /></span>
+                      <span class="pull-left" href="#"><img alt="目标人群为大三/大四即将毕业的学生。" class="media-object" src="/Education/Public/images/middle_1100003.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">论文排版速成宝典                 （Word2013）</h4>
                         <p>
@@ -525,7 +525,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
-                      <span class="pull-left" href="#"><img alt="本课为１天线下冲刺班" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_2015___________.png" /></span>
+                      <span class="pull-left" href="#"><img alt="本课为１天线下冲刺班" class="media-object" src="/Education/Public/images/middle_2015___________.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">项目管理—线下冲刺班（中、高级）</h4>
                         <p>
@@ -568,7 +568,7 @@
           <ul class="media-list flex-course-list">
                 <li>
                   <a class="media" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
-                      <span class="pull-left" href="#"><img alt="参加互联网革命的浪潮，一起颠覆这个世界" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_________-__.png" /></span>
+                      <span class="pull-left" href="#"><img alt="参加互联网革命的浪潮，一起颠覆这个世界" class="media-object" src="/Education/Public/images/middle_________-__.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">数据挖掘技术</h4>
                         <p>
@@ -580,7 +580,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
-                      <span class="pull-left" href="#"><img alt="本课程将带领学员们进入R语言的世界" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle__R_______.png" /></span>
+                      <span class="pull-left" href="#"><img alt="本课程将带领学员们进入R语言的世界" class="media-object" src="/Education/Public/images/middle__R_______.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">R语言入门基础</h4>
                         <p>
@@ -592,7 +592,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
-                      <span class="pull-left" href="#"><img alt="让用户轻松架构和使用的分布式计算平台" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_hadoop____.png" /></span>
+                      <span class="pull-left" href="#"><img alt="让用户轻松架构和使用的分布式计算平台" class="media-object" src="/Education/Public/images/middle_hadoop____.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">Hadoop实战演练</h4>
                         <p>
@@ -611,7 +611,7 @@
   <div class="media row">
             <a class="pull-left flex-foremost-course col-xs-7" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
                 <div class="media-object-viewport">
-                  <img alt="门外汉怎样迅速使用云服务" class="media-object" src="/ThinkPHP3.2.3/Public/images/large__AWS___________.png" />
+                  <img alt="门外汉怎样迅速使用云服务" class="media-object" src="/Education/Public/images/large__AWS___________.png" />
                   <div class="shadow-layer"></div>
                 </div>
                 <div class="caption">
@@ -623,7 +623,7 @@
           <ul class="media-list flex-course-list">
                 <li>
                   <a class="media" click_source="discover_top" href="<?php echo U('Index/course_detail');?>">
-                      <span class="pull-left" href="#"><img alt="从零开始为移动设备创建云服务" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle__Java_______.png" /></span>
+                      <span class="pull-left" href="#"><img alt="从零开始为移动设备创建云服务" class="media-object" src="/Education/Public/images/middle__Java_______.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">Java 云计算编程（上）</h4>
                         <p>
@@ -635,7 +635,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/72">
-                      <span class="pull-left" href="#"><img alt="揭开亚马逊云计算的神秘面纱" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle____________-AndyJassy.jpg" /></span>
+                      <span class="pull-left" href="#"><img alt="揭开亚马逊云计算的神秘面纱" class="media-object" src="/Education/Public/images/middle____________-AndyJassy.jpg" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">分享云计算的创新之路</h4>
                         <p>
@@ -647,7 +647,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/28">
-                      <span class="pull-left" href="#"><img alt="等你来攀登通往云架构师的天梯" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_____-_________-_____.png" /></span>
+                      <span class="pull-left" href="#"><img alt="等你来攀登通往云架构师的天梯" class="media-object" src="/Education/Public/images/middle_____-_________-_____.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">云之美-通向云架构师之路</h4>
                         <p>
@@ -666,7 +666,7 @@
   <div class="media row">
             <a class="pull-left flex-foremost-course col-xs-7" click_source="discover_top" href="/courses/91">
                 <div class="media-object-viewport">
-                  <img alt="IBM Worklight入门APP开发" class="media-object" src="/ThinkPHP3.2.3/Public/images/large_30__________/ThinkPHP3.2.3____.png" />
+                  <img alt="IBM Worklight入门APP开发" class="media-object" src="/Education/Public/images/large_30__________/Education____.png" />
                   <div class="shadow-layer"></div>
                 </div>
                 <div class="caption">
@@ -678,7 +678,7 @@
           <ul class="media-list flex-course-list">
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/78">
-                      <span class="pull-left" href="#"><img alt="让徐志摩把云彩放入衣服口袋里随意带走" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle__Android__________.png" /></span>
+                      <span class="pull-left" href="#"><img alt="让徐志摩把云彩放入衣服口袋里随意带走" class="media-object" src="/Education/Public/images/middle__Android__________.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">Android 平台移动云计算开发</h4>
                         <p>
@@ -690,7 +690,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/74">
-                      <span class="pull-left" href="#"><img alt="Objective-C非常“实际”的语言" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_1000061.png" /></span>
+                      <span class="pull-left" href="#"><img alt="Objective-C非常“实际”的语言" class="media-object" src="/Education/Public/images/middle_1000061.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">Objective-C面向对象程序设计</h4>
                         <p>
@@ -702,7 +702,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/53">
-                      <span class="pull-left" href="#"><img alt="从零开始为移动设备创建云服务" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle__Java_______.png" /></span>
+                      <span class="pull-left" href="#"><img alt="从零开始为移动设备创建云服务" class="media-object" src="/Education/Public/images/middle__Java_______.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">Java 云计算编程（上）</h4>
                         <p>
@@ -721,7 +721,7 @@
   <div class="media row">
             <a class="pull-left flex-foremost-course col-xs-7" click_source="discover_top" href="/courses/41">
                 <div class="media-object-viewport">
-                  <img alt="现实世界中客观存在的一切都是你的数据元素" class="media-object" src="/ThinkPHP3.2.3/Public/images/large_1000736.png" />
+                  <img alt="现实世界中客观存在的一切都是你的数据元素" class="media-object" src="/Education/Public/images/large_1000736.png" />
                   <div class="shadow-layer"></div>
                 </div>
                 <div class="caption">
@@ -733,7 +733,7 @@
           <ul class="media-list flex-course-list">
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/40">
-                      <span class="pull-left" href="#"><img alt="软件之路的第一把金钥匙" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_________-____.jpg" /></span>
+                      <span class="pull-left" href="#"><img alt="软件之路的第一把金钥匙" class="media-object" src="/Education/Public/images/middle_________-____.jpg" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">编程算法基础</h4>
                         <p>
@@ -745,7 +745,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/42">
-                      <span class="pull-left" href="#"><img alt="现实世界中客观存在的一切都是你的数据元素" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_________-_____1000x1000.jpg" /></span>
+                      <span class="pull-left" href="#"><img alt="现实世界中客观存在的一切都是你的数据元素" class="media-object" src="/Education/Public/images/middle_________-_____1000x1000.jpg" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">数据结构基础</h4>
                         <p>
@@ -757,7 +757,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/74">
-                      <span class="pull-left" href="#"><img alt="Objective-C非常“实际”的语言" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_1000061.png" /></span>
+                      <span class="pull-left" href="#"><img alt="Objective-C非常“实际”的语言" class="media-object" src="/Education/Public/images/middle_1000061.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">Objective-C面向对象程序设计</h4>
                         <p>
@@ -776,7 +776,7 @@
   <div class="media row">
             <a class="pull-left flex-foremost-course col-xs-7" click_source="discover_top" href="/courses/30">
                 <div class="media-object-viewport">
-                  <img alt="想赚钱？拍摄技巧弱爆的你请进！" class="media-object" src="/ThinkPHP3.2.3/Public/images/large___________-__.png" />
+                  <img alt="想赚钱？拍摄技巧弱爆的你请进！" class="media-object" src="/Education/Public/images/large___________-__.png" />
                   <div class="shadow-layer"></div>
                 </div>
                 <div class="caption">
@@ -788,7 +788,7 @@
           <ul class="media-list flex-course-list">
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/87">
-                      <span class="pull-left" href="#"><img alt="微信华丽转身“高、大、上”" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_______.png" /></span>
+                      <span class="pull-left" href="#"><img alt="微信华丽转身“高、大、上”" class="media-object" src="/Education/Public/images/middle_______.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">微信营销入门</h4>
                         <p>
@@ -800,7 +800,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/77">
-                      <span class="pull-left" href="#"><img alt="让搜索引擎为我所用" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_________-__.jpg" /></span>
+                      <span class="pull-left" href="#"><img alt="让搜索引擎为我所用" class="media-object" src="/Education/Public/images/middle_________-__.jpg" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">搜索引擎营销</h4>
                         <p>
@@ -812,7 +812,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/76">
-                      <span class="pull-left" href="#"><img alt="教你如何分享互联网世界里的奶酪" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle_1000042.png" /></span>
+                      <span class="pull-left" href="#"><img alt="教你如何分享互联网世界里的奶酪" class="media-object" src="/Education/Public/images/middle_1000042.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">互联网营销概论</h4>
                         <p>
@@ -831,7 +831,7 @@
   <div class="media row">
             <a class="pull-left flex-foremost-course col-xs-7" click_source="discover_top" href="course_detail.html">
                 <div class="media-object-viewport">
-                  <img alt="美女HR教你绝杀技，工作汇报就这么简单。" class="media-object" src="/ThinkPHP3.2.3/Public/images/large__PPT______-__2_.png" />
+                  <img alt="美女HR教你绝杀技，工作汇报就这么简单。" class="media-object" src="/Education/Public/images/large__PPT______-__2_.png" />
                   <div class="shadow-layer"></div>
                 </div>
                 <div class="caption">
@@ -843,7 +843,7 @@
           <ul class="media-list flex-course-list">
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/35">
-                      <span class="pull-left" href="#"><img alt="HR事半功倍的秘密" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle__Excel_HR_______-___.png" /></span>
+                      <span class="pull-left" href="#"><img alt="HR事半功倍的秘密" class="media-object" src="/Education/Public/images/middle__Excel_HR_______-___.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">Excel在HR管理中的应用</h4>
                         <p>
@@ -855,7 +855,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/32">
-                      <span class="pull-left" href="#"><img alt="PPT演讲演示之内外兼修" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle____________-___.png" /></span>
+                      <span class="pull-left" href="#"><img alt="PPT演讲演示之内外兼修" class="media-object" src="/Education/Public/images/middle____________-___.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">超强说服力商务演示</h4>
                         <p>
@@ -867,7 +867,7 @@
 </a>                </li>
                 <li>
                   <a class="media" click_source="discover_top" href="/courses/31">
-                      <span class="pull-left" href="#"><img alt="word技巧会为你带来事半功倍效果" class="media-object" src="/ThinkPHP3.2.3/Public/images/middle__Word_has_Word_______-__.png" /></span>
+                      <span class="pull-left" href="#"><img alt="word技巧会为你带来事半功倍效果" class="media-object" src="/Education/Public/images/middle__Word_has_Word_______-__.png" /></span>
                       <div class="media-body">
                         <h4 class="media-heading">Word has Word我的还是我的</h4>
                         <p>
@@ -904,7 +904,7 @@
       <div class="row">
         <div class="col-xs-2" >
           <div class="logo">
-            <a href="index.html"><img src="/ThinkPHP3.2.3/Public/images/logo-white-15.png" alt=""></a>
+            <a href="index.html"><img src="/Education/Public/images/logo-white-15.png" alt=""></a>
           </div>
         </div>
         <div class="col-xs-5">
@@ -976,7 +976,7 @@
           </div>
         </div>
         <div class=" text-center pull-right">
-          <img src="/ThinkPHP3.2.3/Public/images/weixin-QR-footer.png" alt="" class="weixin-QR">
+          <img src="/Education/Public/images/weixin-QR-footer.png" alt="" class="weixin-QR">
           <p class="wxz">官方微信</p>
         </div>
       </div>
@@ -1016,14 +1016,14 @@
 </script>
 <![endif]-->
 
-<script src=" /ThinkPHP3.2.3/Public/js/login_home.js"></script>
+<script src=" /Education/Public/js/login_home.js"></script>
 
 <!--[if lt IE 9]>
-<script type="text/javascript" src=" /ThinkPHP3.2.3/Public/js/ie8-resize.js"></script>
+<script type="text/javascript" src=" /Education/Public/js/ie8-resize.js"></script>
 <![endif]-->
-<script type="text/javascript" src=" /ThinkPHP3.2.3/Public/js/global.js"></script>
-<script type="text/javascript" src=" /ThinkPHP3.2.3/Public/js/retina.custom.js"></script>
-<script type="text/javascript" src=" /ThinkPHP3.2.3/Public/js/anonymous_index5.js"></script>
+<script type="text/javascript" src=" /Education/Public/js/global.js"></script>
+<script type="text/javascript" src=" /Education/Public/js/retina.custom.js"></script>
+<script type="text/javascript" src=" /Education/Public/js/anonymous_index5.js"></script>
 
 </body>
   </body>

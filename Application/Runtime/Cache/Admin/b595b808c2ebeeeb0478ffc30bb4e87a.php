@@ -9,7 +9,7 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="Cache-Control" content="no-siteapp" />
   <link rel="alternate icon" type="image/png" href="assets/i/favicon.png">
-  <link rel="stylesheet" href="/ThinkPHP3.2.3/Public/css/amazeui.min.css"/>
+  <link rel="stylesheet" href="/Education/Public/css/amazeui.min.css"/>
   <style>
     .header {
       text-align: center;
